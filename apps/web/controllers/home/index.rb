@@ -8,7 +8,6 @@ module Web
           params
         end
       end
-
     end
   end
 end
